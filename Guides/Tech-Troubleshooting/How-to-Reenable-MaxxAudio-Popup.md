@@ -35,7 +35,7 @@ If re-enabling the MaxxAudio popup does not solve the issue and the headphones s
 
 ## Visual Guide
 
-![How to Re-Enable the MaxxAudio Popup](/media/gifs/maxxaudio-popup.gif)
+![How to Re-Enable the MaxxAudio Popup](/Media/gifs/maxxaudio-popup.gif)
 
 The .GIF above demonstrates the steps to re-enable the popup in real-time. Follow along with this visual guide to ensure you perform the steps correctly.
 
