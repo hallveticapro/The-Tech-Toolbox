@@ -4,7 +4,7 @@ This folder contains guides and resources to help educators effectively use AI t
 
 ## Available Guides
 
-- **Getting Started with ChatGPT**  
+-   [**Getting Started with ChatGPT**](Getting-Started-with-ChatGPT.md)
   Learn how to use ChatGPT to generate lesson plans, create differentiated assignments, and assist with grading or feedback. This guide walks through example prompts and best practices for using the tool in an educational setting.
 
 - **MagicSchool.ai Overview**  
