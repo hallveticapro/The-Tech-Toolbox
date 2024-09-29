@@ -10,7 +10,7 @@ This folder contains guides and resources to help educators effectively use AI t
 - **MagicSchool.ai Overview** 
   Explore how MagicSchool.ai can support classroom automation, such as generating parent letters, simplifying administrative tasks, and providing AI-powered suggestions for instructional strategies.
 
-- [**Using AI to Differentiate Instruction**](Using-AI-to-Differentiate-Instruction.md)\  
+- [**Using AI to Differentiate Instruction**](Using-AI-to-Differentiate-Instruction.md)\
   Discover how AI tools can help create personalized learning experiences for students by generating adaptive materials based on student needs and performance data.
 
 - **AI for Classroom Management**  
