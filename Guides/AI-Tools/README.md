@@ -16,7 +16,7 @@ This folder contains guides and resources to help educators effectively use AI t
 - [**AI for Classroom Management**](AI-for-Classroom-Management.md)\
   Learn how AI-powered tools can assist with seating charts, behavior tracking, and communication with students and parents, reducing the administrative load on teachers.
 
-- **Ethics and Best Practices for AI in Education**  
+- [**Ethics and Best Practices for AI in Education**](Ethics-and-Best-Practices-for-AI-in-Education.md)\
   Understand the ethical considerations when using AI tools in the classroom, including data privacy, bias, and ensuring the tools are used to complement, not replace, instructional expertise.
 
 ## Additional Resources
