@@ -2,6 +2,7 @@
 
 This folder contains guides and resources for using interactive classroom tools like Kahoot, Gimkit, and Boddle. These tools help foster student engagement through gamification, making learning fun and interactive. Explore how to integrate these platforms into your lessons to boost participation and enhance learning outcomes.
 
+---
 
 ### **Gamified Learning Tools**
 
@@ -11,6 +12,8 @@ This folder contains guides and resources for using interactive classroom tools 
 | [Gimkit](https://www.gimkit.com/)       | A quiz-based learning game that rewards correct answers with in-game currency. | Use Gimkit for gamified quizzes where students can earn points and compete in teams. |
 | [Blooket](https://www.blooket.com/)     | A game-based learning platform that allows teachers to create quizzes in different game modes. | Use Blooket to engage students with a variety of quiz-based games that reinforce classroom concepts. |
 | [Legends of Learning](https://www.legendsoflearning.com/) | A platform offering curriculum-aligned science and math games.           | Use Legends of Learning to reinforce science and math concepts through educational games that align with classroom standards. |
+| [Boddle](https://www.boddlelearning.com/) | An adaptive learning platform for math and ELA that uses gamification.  | Use Boddle to assign personalized math and ELA practice through engaging, game-like experiences. |
+
 
 ---
 
