@@ -24,6 +24,6 @@ Once you are in the Ease of Access settings, follow these steps:
 ## Additional Resources
 
 For more detailed instructions, including images, you can download the full PDF guide here:  
-[How to Fix Display Scaling PDF](/media/pdfs/How-to-Fix-Display-Scaling.pdf)
+[How to Fix Display Scaling PDF](/Media/pdfs/How-to-Fix-Display-Scaling.pdf)
 
 If this guide doesn't resolve the issue, or the scaling continues to affect certain apps, contact tech support for further assistance.
