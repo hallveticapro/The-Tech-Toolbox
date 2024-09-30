@@ -20,10 +20,10 @@ This folder contains guides and resources for using interactive classroom tools 
 | [Classroom Screen](https://www.classroomscreen.com/) | An interactive tool that helps manage classroom activities with timers, text boxes, and more. | Use Classroom Screen to display timers, text instructions, and other visual aids to guide students during classroom activities. |
 
 
-
 ## Tags:
-- Tools: #Kahoot, #Gimkit, #Boddle
-- Types: #Interactive-Learning, #Gamified-Learning, #Classroom-Engagement
+- Platforms: #Kahoot, #Gimkit, #Boddle, #Quizizz, #Nearpod, #ClassDojo, #GoNoodle, #Blooket, #LegendsOfLearning, #EdPuzzle, #Brainingcamp, #Canva, #ClassroomScreen
+- Types: #Interactive-Learning, #Gamified-Learning, #Classroom-Management, #Engagement, #Movement, #Mindfulness, #Video-Lessons, #Digital-Manipulatives, #Graphic-Design, #Timers, #Behavior-Tracking
+
 
 ---
 
