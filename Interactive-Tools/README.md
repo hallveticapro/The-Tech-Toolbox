@@ -2,33 +2,14 @@
 
 This folder contains guides and resources for using interactive classroom tools like Kahoot, Gimkit, and Boddle. These tools help foster student engagement through gamification, making learning fun and interactive. Explore how to integrate these platforms into your lessons to boost participation and enhance learning outcomes.
 
-## Available Guides
+| **Tool Name**      | **Link**                           | **Description**                                                        | **Classroom Usage**                                                                 |
+|--------------------|------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Kahoot             | [Kahoot](https://kahoot.com/)      | A game-based learning platform that allows teachers to create quizzes.  | Use Kahoot for interactive quizzes, reviews, and real-time feedback on student understanding. |
+| Gimkit             | [Gimkit](https://www.gimkit.com/)  | A quiz-based learning game that rewards correct answers with in-game currency. | Use Gimkit for gamified quizzes where students can earn points and compete in teams. |
+| Boddle             | [Boddle](https://www.boddlelearning.com/) | An adaptive learning platform for math and ELA that uses gamification.  | Use Boddle to assign personalized math and ELA practice through engaging, game-like experiences. |
+| Quizizz            | [Quizizz](https://quizizz.com/)    | A tool for creating multiplayer quizzes and assignments for students.   | Use Quizizz for independent or collaborative quizzes with immediate student feedback. |
+| Nearpod            | [Nearpod](https://nearpod.com/)    | An interactive lesson platform with a wide range of multimedia options. | Use Nearpod to create interactive presentations, polls, quizzes, and collaborative activities.  |
 
-- **Getting Started with Kahoot**  
-  Learn how to create and host engaging quizzes on Kahoot. This guide covers setting up your account, creating custom quizzes, and using Kahoot for both in-class and remote learning.
-
-- **Using Gimkit for Classroom Games**  
-  Discover how to use Gimkit to gamify classroom content. This guide walks you through setting up your first game, creating question sets, and tracking student progress using Gimkit’s in-depth analytics.
-
-- **Boddle: Gamified Learning for Math and ELA**  
-  Explore how Boddle can be used to engage students with adaptive math and ELA practice. This guide shows you how to set up student accounts, assign activities, and track learning progress through Boddle’s interactive dashboard.
-
-- **Best Practices for Gamification in the Classroom**  
-  A guide to effectively integrating gamified learning tools in the classroom, including strategies for balancing competition with collaboration and ensuring that games align with your instructional goals.
-
-## Additional Resources
-
-- **Kahoot! Official Site**  
-  Visit Kahoot's official site for additional resources, templates, and inspiration for creating interactive quizzes.  
-  [Kahoot!](https://kahoot.com/)
-
-- **Gimkit Teacher Hub**  
-  Explore Gimkit's teacher resources for tips on using the platform and engaging students with custom games.  
-  [Gimkit](https://www.gimkit.com/)
-
-- **Boddle Learning**  
-  Visit Boddle’s official site to explore their adaptive learning games for math and ELA.  
-  [Boddle](https://www.boddlelearning.com/)
 
 ## Tags:
 - Tools: #Kahoot, #Gimkit, #Boddle
